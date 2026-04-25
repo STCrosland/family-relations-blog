@@ -12,9 +12,9 @@ if (menuBtn && nav) {
 // === Blog Posts === //
 const posts = [
     {
-        title: "My First Post",
-        date: "April 21, 2026",
-        content: "This is my first blog post made with JavaScript and HTML."
+        title: "",
+        date: "",
+        content: ""
     }
 ];
 
