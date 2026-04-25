@@ -1,12 +1,13 @@
 /* === Global === */
 body {
-    min-height: 100vh;
+    min-height: 100%;
     margin: 0;
     background: url(images/styling/background.jpg);
 }
 
 h1 {
     text-align: center;
+    color: #E7C24F;
 }
 
 /* === Header === */
@@ -24,22 +25,22 @@ header img {
     height: 90%;
     width: auto;
     margin-left: 10px;
-    border: 5px solid #ff0000;
+    border: 5px solid #E7C24F;
     border-radius: 20px;
     box-shadow: 0 0 20px #fff;
 }
 
 /* === Navigation === */
 nav {
-    background: #ff0000;
+    background: #E7C24F;
     width: 100%;
     display: flex;
     justify-content: left;
     align-items: center;
     gap: 50px;
     min-height: 50px;
-    border-top: 3px solid #00d0f9;
-    border-bottom: 3px solid #00d0f9;
+    border-top: 3px solid #DC4618;
+    border-bottom: 3px solid #DC4618;
     padding: 0 20px;
     box-sizing: border-box;
 }
@@ -50,8 +51,8 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #00d0f9;
-    text-shadow: 4px 4px 2px #c800ff;
+    background-color: #DC4618;
+    text-shadow: 4px 4px 2px #6B8E23;
 }
 
 /* === Menu Button === */
