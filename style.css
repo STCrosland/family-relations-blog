@@ -1,0 +1,16 @@
+/* === FOOTER === */
+footer {
+    text-align: center;
+    padding: 1rem;
+    border-top: 1px solid var(--accent1);
+    margin-top: 3rem;
+    font-size: 0.9rem;
+}
+
+footer img {
+    height: 60px;
+    width: auto;
+    border: 5px solid var(--primary);
+    border-radius: 20px;
+    box-shadow: 0 0 20px #ffffff;
+}
