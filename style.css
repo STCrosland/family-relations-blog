@@ -1,8 +1,83 @@
+/* === Global === */
+body {
+    min-height: 100vh;
+    background: #ffffff;
+    background-size: cover;
+    max-height: 700px;
+}
+
+h1{
+    justify-content: center;
+}
+/* === Header === */
+header {
+    background: url("images/header-image.jpg") no-repeat center;
+    background-size: cover;
+    height: 178px;
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+header img {
+    display: block;
+    width: 10%;
+    height: 90%;
+    border: 5px solid #ff0000;
+    border-radius: 20px;
+    box-shadow: 0 0 20px #fff;
+}
+
+
+/* === Navigation Sections === */
+nav {
+    background: #ff0000;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 50px;
+    height: 50px;
+    border-top: 3px solid #00d0f9;
+    border-bottom: 3px solid #00d0f9;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+nav a:hover {
+    background-color: #00d0f9;
+    text-shadow: 4px 4px 2px #c800ff;
+}
+
+
+/* === Navagation Menu Button === */
+.menu-btn { 
+    cursor: pointer; 
+    border: none; 
+    background-color: transparent; 
+}
+
+.bar1, .bar2, .bar3 {
+    width: 30px;
+    height: 4px;
+    background-color: rgb(255, 249, 249);
+    margin: 5px 0;
+}
+
+.change .bar1 {
+  transform: translate(0, 11px) rotate(-45deg);
+}
+.change .bar2 { opacity: 0; }
+.change .bar3 {
+  transform: translate(0, -11px) rotate(45deg);
+}
+
+
 /* === FOOTER === */
 footer {
     text-align: center;
     padding: 1rem;
-    border-top: 1px solid var(--accent1);
+    border-top: 1px solid;
     margin-top: 3rem;
     font-size: 0.9rem;
 }
@@ -10,7 +85,30 @@ footer {
 footer img {
     height: 60px;
     width: auto;
-    border: 5px solid var(--primary);
+    border: 5px solid;
     border-radius: 20px;
     box-shadow: 0 0 20px #ffffff;
+}
+
+
+/* ===== Mobile ===== */
+@media screen and (min-width: 500px) {
+    nav {
+        justify-content: center;
+    }
+}
+
+/* ===== Tablet ===== */
+@media screen and (min-width: 700px) {
+    nav {
+        justify-content: center;
+    }
+}
+
+
+/* ===== Desktop ===== */
+@media screen and (min-width: 1000px) {
+    nav {
+        justify-content: center;
+    }
 }
