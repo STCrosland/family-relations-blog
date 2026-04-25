@@ -10,6 +10,21 @@ h1 {
     color: #E7C24F;
 }
 
+h2{
+    text-align: left;
+    padding-left: 3%;
+    color: #DC4618;
+}
+
+/* === About the Author === */
+    p {
+    color: #fff;
+    background-color: #511414;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 10px;
+}
+
 /* === Header === */
 header {
     background: url("images/header-image.jpg") no-repeat center center;
@@ -187,13 +202,23 @@ footer {
     text-align: center;
     padding: 1rem;
     margin-top: 3rem;
+   
+    p {
+    color: #fff;
+    background: none;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 10px;
+    }
 }
+
 
 footer img {
     height: 60px;
     border: 5px solid;
     border-radius: 20px;
 }
+
 
 /* === MOBILE === */
 @media screen and (max-width: 699px) {
