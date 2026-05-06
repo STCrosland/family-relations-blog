@@ -25,7 +25,89 @@ Diving deeper with the article “Same-sex parenting and children’s outcomes: 
 A rational person analyzing this data can conclude that it is actually far better to ask a teacher who has no desire to improve or justify their reputation for parenting; the teacher is simply there to pass on the grades. An irrational person can also conclude that it is better to use a larger pool of individuals than a smaller pool because you will get a greater understanding of societal norms. Things like this are obvious when we look at the research, but unfortunately, if we never have to look at the research, we can’t determine why it may be correct or incorrect.
 
 I myself have found the 2005 APA brief on same-sex marriage and child outcomes to be an accurate interpretation; however, because of the data collection methods, I would not ever use this brief to convince someone else. Like the data in the brief, my experiences are limited to a small pool of individuals rather than a majority of the country or even the world. So me seeing a reflection of this APA brief does not mean that it is 100% true. Having seen the data, I’m aware of that, and I can understand that well. These instances may be true. There are possibly children out there who are suffering or are disadvantaged due to same-sex marriage and because of that thought, I am actually more intrigued and more determined. So my motivation to go seek out newer and better studies just to satisfy my curiosity or improve my community is far greater by knowing the data quality of the APA brief. So I am analyzing the data in a study rather than accepting it as doctrine. I’m not only finding out the possible truth, but I am also developing a habit of understanding more about the world, rather than just blindly accepting or denying something. That makes me a more active participant in society, in the sciences, and even in my community.`
-    }
+    },
+    
+    {
+        title: "Family Systems Thory",
+        date: "May 9, 2026",
+        image: "images/blog-entries/post-2.jpg",
+        summary: "The observable effect of traditional vs. irragular family systems within my life",
+        content: ``
+
+    },
+
+
+    {
+        title: "Coming Soon",
+        date: "May 16, 2026",
+        image: "images/blog-entries/coming-soon.jpg",
+        summary: "",
+        content: ``
+
+    },
+
+    {
+        title: "Coming Soon",
+        date: "May 23, 2026",
+        image: "images/blog-entries/coming-soon.jpg",
+        summary: "",
+        content: ``
+
+    },
+
+    {
+        title: "Coming Soon",
+        date: "May 30, 2026",
+        image: "images/blog-entries/coming-soon.jpg",
+        summary: "",
+        content: ``
+
+    },
+
+    {
+        title: "Coming Soon",
+        date: "June 6, 2026",
+        image: "images/blog-entries/coming-soon.jpg",
+        summary: "",
+        content: ``
+
+    },
+
+     {
+        title: "Coming Soon",
+        date: "June 13, 2026",
+        image: "images/blog-entries/coming-soon.jpg",
+        summary: "",
+        content: ``
+
+    },
+
+     {
+        title: "Coming Soon",
+        date: "June 27, 2026",
+        image: "images/blog-entries/coming-soon.jpg",
+        summary: "",
+        content: ``
+
+    },
+
+     {
+        title: "Coming Soon",
+        date: "July 4, 2026",
+        image: "images/blog-entries/coming-soon.jpg",
+        summary: "",
+        content: ``
+
+    },
+
+     {
+        title: "Coming Soon",
+        date: "June 11, 2026",
+        image: "images/blog-entries/coming-soon.jpg",
+        summary: "",
+        content: ``
+
+    },
 ];
 
 const blogContainer = document.querySelector("#blog-container");
