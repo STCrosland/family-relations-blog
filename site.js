@@ -69,7 +69,7 @@ const posts = [
     {
         title: "Family Systems Theory",
         date: "May 9, 2026",
-        image: "images/blog-entries/coming-soon.jpg",
+        image: "images/blog-entries/post-2.jpg",
         summary: "The impact of relationships in a fmaily",
         content: `Family system theory is like the Frenchman from the 2003 film “The Matrix 
         Reloaded”. It is fixated on cause and effect, but in this case, it deals only with t
@@ -139,7 +139,7 @@ const posts = [
     {
         title: "Family Systems Thory",
         date: "May 16, 2026",
-        image: "images/blog-entries/post-2.jpg",
+        image: "images/blog-entries/coming-soon.jpg",
         summary: "The observable effect of traditional vs. irragular family systems within my life",
         content: ``
 
