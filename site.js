@@ -205,9 +205,75 @@ const posts = [
     {
         title: "Coming Soon",
         date: "May 23, 2026",
-        image: "images/blog-entries/coming-soon.jpg",
-        summary: "",
-        content: ``
+        image: "images/blog-entries/post-4.jpg",
+        summary: "Empathetic Listening & Child Development",
+        content: `Society currently moves at miles a minute. That leaves so many people 
+        feeling lost or even confused. These disrupting feelings stem from the lack of 
+        empathetic listening in society. With the invention of the smartphone and 
+        dependency on so many other technologies, people have become more biased in their 
+        assumptions and wave off the responsibilities at a whim.
+
+        When raising children, empathetic listening is a key construct. Empathetic 
+        listening allows the adult to understand not only the child but the best path to 
+        raise them to adulthood. All adults, from parents to on-lookers have a lasting 
+        impact on children even with short interactions. 
+
+        Traditional parenting sees a kid throwing a tantrum and adults determine they need 
+        to give this child responsibility, such as an extra chore or a thought exercise. 
+        This teaches the child discipline and a role within their household. Today, 
+        however, many adults go online and diagnose their child with autism, homosexuality, 
+        asperger‘s, or any kind of label that frees said adult from any responsibility. 
+        Adults today are happier finding information that will back their own opinions, 
+        rather than empathetic listening when raising a child.
+
+        A great example of this is often seen in young boys before pre-adolescence. Many 
+        boys like to play with what is typically considered female oriented toys or choose 
+        to wear bright colors like neon pink. These actions typically lead to a label that 
+        the child is gay. There’s no evidence to suggest that these activities at a young 
+        age bring harm to the child. Many adults will simply label a child gay. This 
+        internship allows the adult to not teach the child to stop playing with toys as 
+        they get older or to dress more appropriately for certain circumstances, like going 
+        to a business meeting. The gay label conveniently removes the child-rearing 
+        responsibility from the adult but not the responsibility to function in society 
+        from the child.
+
+        When looking at Daryl Bem’s Theory of Sexual Orientation, it is actually quite 
+        clear that labels like gay are not possible for children before pre-adolescence. 
+        The definition of homosexuality is in fact a sexual attraction to the same gender. 
+        If a four year-old is playing with a Barbie, they do not have sexual attraction 
+        towards the same gender. These children are actually experiencing sex-typical/atypical 
+        activity and playmate preference. Simply put, they are figuring out what type of people 
+        and things they like in and out of their gender roles. Traditionally, boys would be out 
+        playing cops and robbers pretending to shoot guns and destroying things while girls 
+        would be inside painting coloring or dressing up their Barbies. However, any child can 
+        enter into the atypical gender role for play preference and enjoy things opposite to 
+        their role without being homosexual.
+
+        Having an atypical preference for your gender role of play does not mean you will turn 
+        out to be gay. If we look at a boy who is hanging out with his sisters and helping 
+        them do makeovers all the time this child could in fact one day become an artist or a 
+        graphic designer, but it does not mean that they are gay. Now the adults that put the 
+        homosexual label on their children will often affect the next stage in the theory of 
+        sexual orientation: feeling different from opposite/same-sex peers. 
+
+        By placing a label on someone at such a young age, they will have nearly a lifetime of 
+        bias reinforcement. This means that they could experience sexual attraction during 
+        puberty because of a flush of hormones going through their body rather than a physical 
+        trigger in the outside world. These children will interpret it that they are attracted 
+        to the same sex because there happens to be same-sex members around them.
+
+        A simple assumption or personal opinion can have a lifelong lasting effect on 
+        children. Rather than expressing "your truth", which is just simply an opinion, 
+        adults need to seek out facts before they act. As mentioned in a previous blog, they 
+        must check studies and these facts, so they can choose the right ones and formulate a 
+        plan for their family. This way, when they raise children, these adults, whether they 
+        be an uncle, a sibling, and especially a parent, will know exactly how to prepare the 
+        child not only for the adult world but to rear a family themselves. By putting down 
+        phones and AI and simply listening to a child we can figure out why children are doing 
+        the things they're doing and even how to take those aspects and incorporate them into 
+        chores and other responsibilities to help prepare them for the future. There's 
+        absolutely no need to write them off with a thirty second assumption they will define 
+        the rest of their lives.`
 
     },
 
