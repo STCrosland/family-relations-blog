@@ -137,10 +137,10 @@ const posts = [
     },
 
     {
-        title: "Family Systems Thory",
+        title: "Sharing Culture",
         date: "May 16, 2026",
         image: "images/blog-entries/post-3.jpg",
-        summary: "Sharing Culture",
+        summary: "Culture is ment to be shared to build healthy families",
         content: `Today, “culture” is often a word or topic that separates people or places 
         from others. The definition of culture is “the shared set of beliefs, values, 
         customs, behaviors, and artifacts that characterize a group or society”. Modern 
@@ -203,10 +203,10 @@ const posts = [
     },
 
     {
-        title: "Coming Soon",
+        title: "Empathetic Listening & Child Development",
         date: "May 23, 2026",
         image: "images/blog-entries/post-4.jpg",
-        summary: "Empathetic Listening & Child Development",
+        summary: "The impact our assumtions have on childen vs. listening to encourage their divelopment",
         content: `Society currently moves at miles a minute. That leaves so many people 
         feeling lost or even confused. These disrupting feelings stem from the lack of 
         empathetic listening in society. With the invention of the smartphone and 
