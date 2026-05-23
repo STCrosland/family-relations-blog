@@ -139,9 +139,66 @@ const posts = [
     {
         title: "Family Systems Thory",
         date: "May 16, 2026",
-        image: "images/blog-entries/coming-soon.jpg",
-        summary: "The observable effect of traditional vs. irragular family systems within my life",
-        content: ``
+        image: "images/blog-entries/post-3.jpg",
+        summary: "Sharing Culture",
+        content: `Today, “culture” is often a word or topic that separates people or places 
+        from others. The definition of culture is “the shared set of beliefs, values, 
+        customs, behaviors, and artifacts that characterize a group or society”. Modern 
+        social norms push individuals not to share their culture because it is key to their individuality, but the essence of culture is in the word “shared”. When looking at family relations, culture is identified among its members is known as familiar culture.  This culture is embedded in the boundaries set by the family system, the rules of the household, and the societal class in which the family functions. 
+
+        Relationships in a family system define the foundation of its culture. 
+        Parents can be involved with the kids' lives or outsource the responsibility to a 
+        nanny. This will not only determine the memories of a person’s childhood but also 
+        instills the perspective and values a person has when they create their own family. 
+        For example, in a family where the parents are heavily involved in the kids' 
+        education but not their social lives, this will push these children to focus more 
+        on grades rather than friendships. This may result in attending Ivy League schools 
+        but poor networking skills in their careers and even in finding a spouse. 
+
+        The ideal home has two parents that are united in raising their children. Each of 
+        these parents will enter the family with their own family culture from their own 
+        childhood. These cultures are often similar but can differ in small ways. These 
+        similarities set up the household culture with clearly defined rules that are both 
+        spoken and unspoken. For example, if both parents' culture is to have shoes taken off 
+        in the house, this will be a clearly defined rule for all who enter the home. Children 
+        will not only follow this rule, but are expected to inform guests when they enter the 
+        house as well. 
+
+        As parents create the family culture, they will sacrifice and adopt parts of their own 
+        culture with their partner. This is done to reinforce the values parents grew up with and to 
+        create values that are best for their children in the modern world. If the father comes from a 
+        home where he neatly stacks his shoes on a shoe rack and the mother comes from a home where 
+        she just kicks them off into the corner, these are two opposing cultures. It is here that 
+        the parents will choose to sacrifice one value for the other. 
+
+        A key factor in determining which part of the culture you will adopt or sacrifice 
+        is often a family's class within society. In regard to shoe placement, if a family 
+        is a higher class, they will place them stacked. This is not just so family members 
+        can easily access their shoes but more so for guests who enter the home to see the 
+        neat and tidy values of the upper class. lower class and even the beginning of 
+        middle class families will find shoes just kicked off into a corner because of the 
+        value in this culture. The cultural value is to access your shoes quickly and get 
+        them off quickly because the person in this class is always working and on the go.
+
+        One key factor in a family's class of values is their ambition for a higher class 
+        as well. If families are lower or middle class trying to rise above and improve 
+        their family's station they will often adopt the principles and values of the upper 
+        class. Just like with the example of two parents bringing in separate cultures, a 
+        family seeking a higher class will then meld the original family culture with the 
+        new values of the class they are seeking to be a part of. In the example of shoes, 
+        a family that is used to kicking them off would then start stacking them neatly in 
+        the corner, in cubbies, or on a shelf for proper presentation. This family does not 
+        start with the cubby, but they could start with neat rows of shoes to practice and 
+        take a step forward to a new class system values. These values are not just found 
+        in shoe habits but also in education, finances, and topics of conversation.
+                
+        When all is said and done, the modern belief that culture is a person's 
+        individuality and is not meant to be shared proves to be wrong. Individually, 
+        everyone does have their own familiar culture, but they share it with other members 
+        of their family and their class. Each person shares it with those they invite into 
+        their homes, and they meet on the street every day. Culture is meant to be shared as 
+        it does not separate people as independents, but rather unites groups within the 
+        same values, beliefs, and principles.`
 
     },
 
