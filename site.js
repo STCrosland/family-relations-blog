@@ -278,11 +278,27 @@ const posts = [
     },
 
     {
-        title: "Coming Soon",
+        title: "Preparing For Marriage",
         date: "May 30, 2026",
-        image: "images/blog-entries/coming-soon.jpg",
-        summary: "",
-        content: ``
+        image: "images/blog-entries/post-5.jpg",
+        summary: "Stages of commpaninship that prepare for marriage",
+        content: `Over the last thirty years in the United States, necessities have increased in cost while most luxuries have become significantly cheaper. Housing costs, gas prices, and food have increased while smartphones, fancy clothes, and smartwatches have become wildly available for everyone. This is also the case with how people are dating and preparing for marriage. 
+
+Modern dating currently consists of two individual people hanging out as much as they can. This is done rather than using the traditional dating model. These couples will often sit and do individual tasks like homework, binge-watching TV, and doom scrolling social media as they hang out with one another. These instances will occur multiple days per week to every single day with a traditional outing which as a date occurring once a month or even not at all. The luxury of constant companionship that marriage has to offer has now become regularly available with this practice of hanging out. Yet the necessary outing to get to know each other on a date has nearly disappeared from the modern relationship.
+
+Traditionally, a person goes through four stages of companionship: dating, courting, engagement, and marriage. Dating is the first stage of companionship and is a non-committal stage. This is just like the term for an outing, darting, because the individuals will begin to get to know each other. During a dating stage, the best practice is to speak to many potential partners and learn what is the best match for the individual before committing to the next stage. This includes understanding desires, goals, and dislikes for a portal future family.
+
+Courting is the second stage and where real a commitment occurs in the relationship. In this step, individuals become a couple, but they are still getting to know each other through dates. Dates are key because they provide weekly outings to get to know each other and grow the relationship. This allows the individuals to understand themselves and their participation the couple. While commitment is established in this stage, the modern practice of hanging out is detrimental. 
+
+Couples still need to grow as individuals to learn how to share themselves with one another. Otherwise, all the couple does is become one being mentally and emotionally. This is dangerous because the couple is two physically separate people. They each have different roles in life and as well as have different roles in their future family. So learning to function separately and together is crucial.
+
+The third stage is engagement, where the commitment goes from getting to know each other to forming a family. It is this stage that relies on the necessity of dating. Without a solid foundation that dating and initial growth provide, an engagement can fail or even set up an unstable marriage.  Committing to making a family requires understanding your individual roles and understanding how the couple functions as well. This prepares everyone to many the culture, values, and goals for your new family. 
+
+The final stage is marriage, where the luxury of constant companionship arrives. The companionship is brought in at this point because the two Indians have taken their time to understand what they want, need, and can give in their new family. This luxury is earned just like saving for a luxury thirty years ago was saved for. It makes the end product more cherished and last longer. 
+
+To prepare for the best possible marriage, it is vital that individual do not rush into the luxury of constant companionship. Building lasting families depends on taking time to personally prepare for the future. To raise a child it can take a minimum of eighteen years and still parents will be involved after. So creating a lasting family should take a significant time as well.
+
+`
 
     },
 
