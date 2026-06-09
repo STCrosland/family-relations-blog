@@ -282,44 +282,118 @@ const posts = [
         date: "May 30, 2026",
         image: "images/blog-entries/post-5.jpg",
         summary: "Stages of commpaninship that prepare for marriage",
-        content: `Over the last thirty years in the United States, necessities have increased in cost while most luxuries have become significantly cheaper. Housing costs, gas prices, and food have increased while smartphones, fancy clothes, and smartwatches have become wildly available for everyone. This is also the case with how people are dating and preparing for marriage. 
+        content: `Over the last thirty years in the United States, necessities have 
+        increased in cost while most luxuries have become significantly cheaper. Housing 
+        costs, gas prices, and food have increased while smartphones, fancy clothes, and 
+        smartwatches have become wildly available for everyone. This is also the case with 
+        how people are dating and preparing for marriage. 
 
-Modern dating currently consists of two individual people hanging out as much as they can. This is done rather than using the traditional dating model. These couples will often sit and do individual tasks like homework, binge-watching TV, and doom scrolling social media as they hang out with one another. These instances will occur multiple days per week to every single day with a traditional outing which as a date occurring once a month or even not at all. The luxury of constant companionship that marriage has to offer has now become regularly available with this practice of hanging out. Yet the necessary outing to get to know each other on a date has nearly disappeared from the modern relationship.
+        Modern dating currently consists of two individual people hanging out as much as 
+        they can. This is done rather than using the traditional dating model. These 
+        couples will often sit and do individual tasks like homework, binge-watching TV, 
+        and doom scrolling social media as they hang out with one another. These instances 
+        will occur multiple days per week to every single day with a traditional outing 
+        which as a date occurring once a month or even not at all. The luxury of constant 
+        companionship that marriage has to offer has now become regularly available with 
+        this practice of hanging out. Yet the necessary outing to get to know each other 
+        on a date has nearly disappeared from the modern relationship.
 
-Traditionally, a person goes through four stages of companionship: dating, courting, engagement, and marriage. Dating is the first stage of companionship and is a non-committal stage. This is just like the term for an outing, darting, because the individuals will begin to get to know each other. During a dating stage, the best practice is to speak to many potential partners and learn what is the best match for the individual before committing to the next stage. This includes understanding desires, goals, and dislikes for a portal future family.
+        Traditionally, a person goes through four stages of companionship: dating, 
+        courting, engagement, and marriage. Dating is the first stage of companionship and 
+        is a non-committal stage. This is just like the term for an outing, darting, 
+        because the individuals will begin to get to know each other. During a dating 
+        stage, the best practice is to speak to many potential partners and learn what is
+        the best match for the individual before committing to the next stage. This i
+        ncludes understanding desires, goals, and dislikes for a portal future family.
 
-Courting is the second stage and where real a commitment occurs in the relationship. In this step, individuals become a couple, but they are still getting to know each other through dates. Dates are key because they provide weekly outings to get to know each other and grow the relationship. This allows the individuals to understand themselves and their participation the couple. While commitment is established in this stage, the modern practice of hanging out is detrimental. 
+        Courting is the second stage and where real a commitment occurs in the 
+        relationship. In this step, individuals become a couple, but they are still getting 
+        to know each other through dates. Dates are key because they provide weekly outings 
+        to get to know each other and grow the relationship. This allows the individuals to 
+        understand themselves and their participation the couple. While commitment is 
+        established in this stage, the modern practice of hanging out is detrimental. 
 
-Couples still need to grow as individuals to learn how to share themselves with one another. Otherwise, all the couple does is become one being mentally and emotionally. This is dangerous because the couple is two physically separate people. They each have different roles in life and as well as have different roles in their future family. So learning to function separately and together is crucial.
+        Couples still need to grow as individuals to learn how to share themselves with one 
+        another. Otherwise, all the couple does is become one being mentally and emotionally. 
+        This is dangerous because the couple is two physically separate people. They each have 
+        different roles in life and as well as have different roles in their future family. 
+        So learning to function separately and together is crucial.
 
-The third stage is engagement, where the commitment goes from getting to know each other to forming a family. It is this stage that relies on the necessity of dating. Without a solid foundation that dating and initial growth provide, an engagement can fail or even set up an unstable marriage.  Committing to making a family requires understanding your individual roles and understanding how the couple functions as well. This prepares everyone to many the culture, values, and goals for your new family. 
+        The third stage is engagement, where the commitment goes from getting to know each 
+        other to forming a family. It is this stage that relies on the necessity of dating. 
+        Without a solid foundation that dating and initial growth provide, an engagement 
+        can fail or even set up an unstable marriage.  Committing to making a family 
+        requires understanding your individual roles and understanding how the couple 
+        functions as well. This prepares everyone to many the culture, values, and goals 
+        for your new family. 
 
-The final stage is marriage, where the luxury of constant companionship arrives. The companionship is brought in at this point because the two Indians have taken their time to understand what they want, need, and can give in their new family. This luxury is earned just like saving for a luxury thirty years ago was saved for. It makes the end product more cherished and last longer. 
+        The final stage is marriage, where the luxury of constant companionship arrives. 
+        The companionship is brought in at this point because the two Indians have taken 
+        their time to understand what they want, need, and can give in their new family. 
+        This luxury is earned just like saving for a luxury thirty years ago was saved for. 
+        It makes the end product more cherished and last longer. 
 
-To prepare for the best possible marriage, it is vital that individual do not rush into the luxury of constant companionship. Building lasting families depends on taking time to personally prepare for the future. To raise a child it can take a minimum of eighteen years and still parents will be involved after. So creating a lasting family should take a significant time as well.
-
-`
+        To prepare for the best possible marriage, it is vital that individual do not rush 
+        into the luxury of constant companionship. Building lasting families depends on 
+        taking time to personally prepare for the future. To raise a child it can take a 
+        minimum of eighteen years and still parents will be involved after. So creating a 
+        lasting family should take a significant time as well.`
 
     },
 
     {
         title: "Marriage Preperation",
         date: "June 6, 2026",
-        image: "images/blog-entries/coming-soon.jpg",
+        image: "images/blog-entries/post-6.jpg",
         summary: "Marriage can have different goals and will have differnet reslts because of those goals. Preparing yourself and your partner with the same goals is key to the successful marriage of your choice",
         content: `Modern society provides an app, a machine, or even a service to handle the most complex to the most mundane aspects of daily life. The original thought was this would bring more independence to the average American as they would have more free time to do as they wish. In execution, this concept has made modern generations less prepared in every aspect of their lives. This is seen heavily in the marriage and population rates of the United States.
         
-        Since the early 2000s, there has been a concept that maturity is required for the ideal marriage. Most people assume this maturity comes after finishing higher education, developing a career, and discovering one’s own inner identity. Well, this can make a person more mature, but it does not guarantee preparation nor an ideal marriage. In fact, at times it can create boundaries and biases from a long life of habits with end goals in mind. 
+        Since the early 2000s, there has been a concept that maturity is required for the i
+        deal marriage. Most people assume this maturity comes after finishing higher 
+        education, developing a career, and discovering one’s own inner identity. Well, 
+        this can make a person more mature, but it does not guarantee preparation nor an 
+        ideal marriage. In fact, at times it can create boundaries and biases from a long 
+        life of habits with end goals in mind. 
 
-The study “A state of our unions 2022” found that those who engage in marriage are young tend to be more satisfied. Unlike people who are 25 or older, these young couples do not have expectations of not only the marriage itself but how their life must be. These expectations are biases that an individual forms by committing to a single life plan such as a career or a certain education path. Younger couples tend to be more flexible about their individuality as they grow more as a couple than an individual.
+        The study “A state of our unions 2022” found that those who engage in marriage are 
+        young tend to be more satisfied. Unlike people who are 25 or older, these young 
+        couples do not have expectations of not only the marriage itself but how their life 
+        must be. These expectations are biases that an individual forms by committing to a 
+        single life plan such as a career or a certain education path. Younger couples tend 
+        to be more flexible about their individuality as they grow more as a couple than an 
+        individual.
 
-Well, this study does suggest that younger couples are the happier individuals. It is also inferred that they are more codependent. This is because the changes they go through our changes and sacrifices for the marriage and family unit itself. This is not necessarily a bad thing to do if family is your ultimate goal. However, that also means marrying late is not always the most important thing to do and is key to success in marriage. Preparation and maturity are the keys to marriage, but the first question you need to ask yourself is what is the goal of your marriage?
+        Well, this study does suggest that younger couples are the happier individuals. It 
+        is also inferred that they are more codependent. This is because the changes they 
+        go through our changes and sacrifices for the marriage and family unit itself. This 
+        is not necessarily a bad thing to do if family is your ultimate goal. However, that 
+        also means marrying late is not always the most important thing to do and is key to 
+        success in marriage. Preparation and maturity are the keys to marriage, but the 
+        first question you need to ask yourself is what is the goal of your marriage?
 
-For those looking to rear a family and produce happy, healthy children, marrying young is definitely a great option. For individuals looking to be a power couple and influence the world around them or even just travel the world endlessly with no specific goal of children in mind, marrying late can be the preferred option. By marrying late, individuals will make their self discovery and their career achieved. This will provide money and influence in their daily lives for whatever goals they choose.
+        For those looking to rear a family and produce happy, healthy children, marrying 
+        young is definitely a great option. For individuals looking to be a power couple 
+        and influence the world around them or even just travel the world endlessly with no 
+        specific goal of children in mind, marrying late can be the preferred option. By 
+        marrying late, individuals will make their self discovery and their career achieved. 
+        This will provide money and influence in their daily lives for whatever goals they 
+        choose.
 
-So, to avoid an unhappy marriage it is not necessarily about age, but it’s about your personal preparation and goals. If an individual prepares themselves to be part of a relationship and family at a young age to rear children, they will succeed at 18 or even 16 years old. If an individual seeks a partner to help influence the politics in their state or country, they can spend their entire 20s choosing the right partner just like they chose the right majors in classes at college. 
+        So, to avoid an unhappy marriage it is not necessarily about age, but it’s about 
+        your personal preparation and goals. If an individual prepares themselves to be part 
+        of a relationship and family at a young age to rear children, they will succeed at 
+        18 or even 16 years old. If an individual seeks a partner to help influence the 
+        politics in their state or country, they can spend their entire 20s choosing the 
+        right partner just like they chose the right majors in classes at college. 
 
-The "State of the Union" study focused on traditional nuclear family values, but that is not all there is to life. As long as an individual puts in the work rather than giving it up to some app or technology, they can prepare themselves for whatever outcome they prefer. Even if they want to be married later and still raise a family, they need only mentally prepare themselves to let go of the biases of their accomplishments and we find equal happiness by sacrificing their lives to be part of others. So the ideal from the early 2000s is correct, but the execution in which many American people have done it has often been misguided.`
+        The "State of the Union" study focused on traditional nuclear family values, but 
+        that is not all there is to life. As long as an individual puts in the work rather 
+        than giving it up to some app or technology, they can prepare themselves for 
+        whatever outcome they prefer. Even if they want to be married later and still 
+        raise a family, they need only mentally prepare themselves to let go of the biases 
+        of their accomplishments and we find equal happiness by sacrificing their lives to 
+        be part of others. So the ideal from the early 2000s is correct, but the execution 
+        in which many American people have done it has often been misguided.`
 
     },
 
