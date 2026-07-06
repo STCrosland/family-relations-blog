@@ -506,11 +506,24 @@ const posts = [
     },
 
      {
-        title: "Coming Soon",
+        title: "Budgetting",
         date: "July 4, 2026",
-        image: "images/blog-entries/coming-soon.jpg",
-        summary: "",
-        content: ``
+        image: "images/blog-entries/post-9.jpg",
+        summary: "Budgetting is a key resorce to a family",
+        content: `Weather it is the 1800s with a modern era a family survival has always relied upon a stable budget. A budget in the modern era is focused solely on finances where in the past those finances were an abundance of resources, from food and water to tools and medicine that were readily available. Today, the average family is lucky enough to only have to focus on finance.
+
+Even with the average family only having to focus upon a financial aspect of a budget, most families tend to struggle. This is because the world we live in is filled with so many luxuries such as phones and televisions, it is easy to misappropriate funds. At every return as well, each individual in a family unit faces tremendous amounts of advertising. This only increases the odds that an individual or misappropriates their share of the finances.
+
+To combat this potential over spending, a family should create a budget. The parental units will have the greatest understanding of the budget and put it into practice. As for the children in the family, they should also understand the budget more and more as they get older. As well as important to maintain boundaries between the parental units and the children, it is also vital important that the parents share the budget with the children overtime. This will teach the children not just how to make a budget and keep to it, but also the value of the dollar and the value of the resources that dollars purchase.
+
+The first part of a budget is to track every single resource. Whether a family is making a budget for the first time or they are sticking to their budget, it is important to know what you spend. This allows complete assessment of every financial expense, from grocery shopping and eating out to accessing streaming services or toys purchased throughout the month. Using a bank account to see all your digital purchases can be helpful but does not often show you your monthly track. Tracking expenses on a monthly or weekly basis allows a family to see not only their income but their expenses at the same rate as money flows in and out of the household.
+
+The next step is to distinguish the needs of the household versus the desires. So things like housing costs, food, and monthly medical necessities will have the highest priority. Well, clothes are essential, they are not essential every single month out of the year, so they will be put on a lower priority. Entertainment options such as streaming services, theme park tickets and even outings to a local laser tag facility will have some of the lowest priorities. 
+
+Once all the priorities are assessed for each expense, the family can review its income to see how much it can spend. A key factor is that 10 to 20% of the monthly income should be set aside for savings. The savings can be part of a retirement fund or more importantly, an emergency fund that is readily available for any fires, car crashes, and unforeseen medical. After that, the highest priorities should be paid for, and it can trickle down to the lowest priorities.
+
+It iss estimated about twenty percent of a family's expenses can be cut without a major lifestyle change. Things like DoorDash or a premium Disney+ account can be cut when you have multiple streaming services or food at home. Buying that extra action figure for a child when they have 10 similar ones at home well nice can be better applied. When making a budget, it is key to find this twenty percent,  so the best outcome can occur for the budget. This should occur not only in the initial budget making process but any reassessments such as a yearly overview of the finances.
+Practicing these budgetary habits will not only help the family with expenses, but it will also improve their financial ability overtime. As stated earlier, will also teach children how to understand the value of dollars and the things that dollars buy. This intern helps children prepare for their own family one day with great financial habits.`
 
     },
 
