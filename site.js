@@ -400,7 +400,7 @@ const posts = [
      {
         title: "Opposites",
         date: "June 13, 2026",
-        image: "images/blog-entries/coming-soon.jpg",
+        image: "images/blog-entries/post-7.jpg",
         summary: "Opposites of men and women may cause confilict but are ment to bring us closer together",
         content: `Relationships are like a birthday cake with one portion a sweet grain that rises into a loaf and the other portion sweet delicious frosting compressed out of sugar. Separately, these two could be no more different than each other and yet together they make something absolutely delicious that we cherish with every celebration or milestone in life. Men and women are just like that; complete opposites that that together make a beautiful relationship or family. These opposites can often cause conflict in a relationship but are also the balance that completes a man or a woman in life.
 
@@ -448,9 +448,9 @@ const posts = [
     },
 
      {
-        title: "Relife of Parenting",
-        date: "June 27, 2026",
-        image: "images/blog-entries/coming-soon.jpg",
+        title: "Dealing with Stress",
+        date: "June 20, 2026",
+        image: "images/blog-entries/post-8.jpg",
         summary: "Family Stress is eased by the purpous of parenthood",
         content: `From religion to film, modern society is filled with the universal 
         question of purpose. People will often question their existence, their role in 
@@ -504,31 +504,151 @@ const posts = [
 `
 
     },
+   {
+        title: "Communication",
+        date: "June 17, 2026",
+        image: "images/blog-entries/post-9.jpg",
+        summary: "How to use EAR for communication",
+        content: `Since the dawn of time the most crucial aspect in any relationship from war to the running of a family household has been proper communication. Misunderstandings can lead to conflict, misunderstandings, and even generational shortcomings. When proper communication is achieved, however, it’s not only relieve stress on the relationship but achieve goals, boost resources, and provides more opportunities going forward.
 
+        The truth is well that is an important aspect for understanding it is not the most 
+        important aspect for maintaining the relationship goals through communication. 
+        David D Burns created a checklist of three values for good communication called 
+        The E.A.R. Checklist. These values are empathy, assertiveness, and respect.
+
+        By utilizing these three values in communication with others and individual cannot 
+        only maintain effectiveness of their message but also sustain a positive 
+        relationship. This is important because without a positive relationship things such 
+        as resentment, insubordination, and challenging a person’s character or decisions 
+        can occur. This is not only will prevent your message from being passed along but 
+        it also prevents the message from being absorbed by the individual to which you 
+        gave it.
+
+        Empathy is a key value because it shows connection to the individual throughout the 
+        conversation. This empathy can make the message giver not only relatable but also 
+        allows for ethical credentials to be given. For example when speaking with someone 
+        in the medical field from a brand new medic to a specialized doctor patients are 
+        often comforted when a doctor explains a situation they lived through that was 
+        similar. If a patient goes in with knees that are always clicking but the doctor 
+        has the same thing since the age of 12 and it proves to be harmless it reassures 
+        the patient that they are simply just growing pains from childhood.
+
+        Another core reason behind the value of empathy is that it can be a comfort 
+        emotionally to individuals. When emotions are high from loss of a family friend or 
+        family member empathy is often used to console individuals. Whether the individual 
+        has been through the same experience or not it helps these emotions calm down and 
+        show that they are willing to not only speak with them but that these people are 
+        also willing to stand by them throughout the conversation and their hardship. This 
+        is helpful during arguments with a spouse or even someone’s children so that they 
+        know that despite disagreements they will always have each other in the end.
+
+        Assertiveness is another core value in communication because it provides a basis 
+        for your message. When a young child comes home from school and begins their 
+        homework assertiveness can make or break whether or not they enjoy the class. If a 
+        child makes it through more than half of their spelling test homework with correct 
+        answers they’re going to enjoy English. Now if that same child we’re only to get a 
+        small portion of the words correct and frustrated they would become a nonproductive 
+        student in the course and grow to hate it. This is because of assertiveness build 
+        confidence.
+
+        The confidence behind assertiveness not only show is that you are capable and 
+        knowledgeable but it also reveals that you have a passion for the topic. In 
+        communication when people are assertive they show that it is not just a topic they 
+        are passionate and knowledgeable about that it is also a fact in which they live 
+        their life by. This ensures the others they are communicating with that they have a 
+        truth behind their statements. However blind passion can lead to over aggression 
+        and too much assertiveness. Balancing this value is key to communication. 
+
+        Respect is the final value for effective communication. It is what helps 
+        individuals from stepping beyond balanced assertiveness or invasive empathy. Just 
+        like the boundaries created in a family unit respect creates a boundary in 
+        communication. It allows individuals to acknowledge each other’s points of view, 
+        feelings, and points. It’s what makes arguments into a conversation rather than a 
+        yelling match.
+
+        Respect is showing each other that value is found not only in their words but in 
+        the person themselves. While an individual may disagree with the point their wife 
+        or child is trying to make they still care about the individual and their ideas. 
+        This care show through respect gives value not just to the arguments in the 
+        conversation but to the individual themselves. This is what brings assertiveness 
+        down to balance. And the boundary of respect is also what pulls everyone in the 
+        conversation away from being over invasive. 
+
+        By utilizing all three of these values a family cannot only effectively communicate 
+        but grow closer together. They better understand each other intellectually as well 
+        as emotionally with this method. A family can build love instead of malice.`
+
+    },
      {
         title: "Budgetting",
         date: "July 4, 2026",
-        image: "images/blog-entries/post-9.jpg",
+        image: "images/blog-entries/post-10.jpg",
         summary: "Budgetting is a key resorce to a family",
-        content: `Weather it is the 1800s with a modern era a family survival has always relied upon a stable budget. A budget in the modern era is focused solely on finances where in the past those finances were an abundance of resources, from food and water to tools and medicine that were readily available. Today, the average family is lucky enough to only have to focus on finance.
+        content: `Weather it is the 1800s with a modern era a family survival has always
+         relied upon a stable budget. A budget in the modern era is focused solely on 
+         finances where in the past those finances were an abundance of resources, from 
+         food and water to tools and medicine that were readily available. Today, the 
+         average family is lucky enough to only have to focus on finance.
 
-Even with the average family only having to focus upon a financial aspect of a budget, most families tend to struggle. This is because the world we live in is filled with so many luxuries such as phones and televisions, it is easy to misappropriate funds. At every return as well, each individual in a family unit faces tremendous amounts of advertising. This only increases the odds that an individual or misappropriates their share of the finances.
+        Even with the average family only having to focus upon a financial aspect of a 
+        budget, most families tend to struggle. This is because the world we live in is 
+        filled with so many luxuries such as phones and televisions, it is easy to 
+        misappropriate funds. At every return as well, each individual in a family unit 
+        faces tremendous amounts of advertising. This only increases the odds that an 
+        individual or misappropriates their share of the finances.
 
-To combat this potential over spending, a family should create a budget. The parental units will have the greatest understanding of the budget and put it into practice. As for the children in the family, they should also understand the budget more and more as they get older. As well as important to maintain boundaries between the parental units and the children, it is also vital important that the parents share the budget with the children overtime. This will teach the children not just how to make a budget and keep to it, but also the value of the dollar and the value of the resources that dollars purchase.
+        To combat this potential over spending, a family should create a budget. The 
+        parental units will have the greatest understanding of the budget and put it into 
+        practice. As for the children in the family, they should also understand the budget 
+        more and more as they get older. As well as important to maintain boundaries 
+        between the parental units and the children, it is also vital important that the 
+        parents share the budget with the children overtime. This will teach the children 
+        not just how to make a budget and keep to it, but also the value of the dollar and 
+        the value of the resources that dollars purchase.
 
-The first part of a budget is to track every single resource. Whether a family is making a budget for the first time or they are sticking to their budget, it is important to know what you spend. This allows complete assessment of every financial expense, from grocery shopping and eating out to accessing streaming services or toys purchased throughout the month. Using a bank account to see all your digital purchases can be helpful but does not often show you your monthly track. Tracking expenses on a monthly or weekly basis allows a family to see not only their income but their expenses at the same rate as money flows in and out of the household.
+        The first part of a budget is to track every single resource. Whether a family is 
+        making a budget for the first time or they are sticking to their budget, it is 
+        important to know what you spend. This allows complete assessment of every 
+        financial expense, from grocery shopping and eating out to accessing streaming 
+        services or toys purchased throughout the month. Using a bank account to see all 
+        your digital purchases can be helpful but does not often show you your monthly 
+        track. Tracking expenses on a monthly or weekly basis allows a family to see not 
+        only their income but their expenses at the same rate as money flows in and out of 
+        the household.
 
-The next step is to distinguish the needs of the household versus the desires. So things like housing costs, food, and monthly medical necessities will have the highest priority. Well, clothes are essential, they are not essential every single month out of the year, so they will be put on a lower priority. Entertainment options such as streaming services, theme park tickets and even outings to a local laser tag facility will have some of the lowest priorities. 
+        The next step is to distinguish the needs of the household versus the desires. So 
+        things like housing costs, food, and monthly medical necessities will have the 
+        highest priority. Well, clothes are essential, they are not essential every single 
+        month out of the year, so they will be put on a lower priority. Entertainment 
+        options such as streaming services, theme park tickets and even outings to a local 
+        laser tag facility will have some of the lowest priorities. 
 
-Once all the priorities are assessed for each expense, the family can review its income to see how much it can spend. A key factor is that 10 to 20% of the monthly income should be set aside for savings. The savings can be part of a retirement fund or more importantly, an emergency fund that is readily available for any fires, car crashes, and unforeseen medical. After that, the highest priorities should be paid for, and it can trickle down to the lowest priorities.
+        Once all the priorities are assessed for each expense, the family can review its 
+        income to see how much it can spend. A key factor is that 10 to 20% of the monthly 
+        income should be set aside for savings. The savings can be part of a retirement 
+        fund or more importantly, an emergency fund that is readily available for any 
+        fires, car crashes, and unforeseen medical. After that, the highest priorities 
+        should be paid for, and it can trickle down to the lowest priorities.
 
-It iss estimated about twenty percent of a family's expenses can be cut without a major lifestyle change. Things like DoorDash or a premium Disney+ account can be cut when you have multiple streaming services or food at home. Buying that extra action figure for a child when they have 10 similar ones at home well nice can be better applied. When making a budget, it is key to find this twenty percent,  so the best outcome can occur for the budget. This should occur not only in the initial budget making process but any reassessments such as a yearly overview of the finances.
-Practicing these budgetary habits will not only help the family with expenses, but it will also improve their financial ability overtime. As stated earlier, will also teach children how to understand the value of dollars and the things that dollars buy. This intern helps children prepare for their own family one day with great financial habits.`
+        It iss estimated about twenty percent of a family's expenses can be cut without a 
+        major lifestyle change. Things like DoorDash or a premium Disney+ account can be 
+        cut when you have multiple streaming services or food at home. Buying that extra 
+        action figure for a child when they have 10 similar ones at home well nice can be 
+        better applied. When making a budget, it is key to find this twenty percent,  so 
+        the best outcome can occur for the budget. This should occur not only in the 
+        initial budget making process but any reassessments such as a yearly overview of the 
+        finances.
+
+        Practicing these budgetary habits will not only help the family with expenses, but 
+        it will also improve their financial ability overtime. As stated earlier, will also 
+        teach children how to understand the value of dollars and the things that dollars buy. 
+        This intern helps children prepare for their own family one day with great financial 
+        habits.`
 
     },
 
      {
-        title: "Coming Soon",
+        title: "Parenting",
         date: "June 11, 2026",
         image: "images/blog-entries/coming-soon.jpg",
         summary: "",
