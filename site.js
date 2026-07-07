@@ -650,7 +650,7 @@ const posts = [
      {
         title: "Parenting",
         date: "June 11, 2026",
-        image: "images/blog-entries/coming-soon.jpg",
+        image: "images/blog-entries/post-11.jpg",
         summary: "",
         content: ``
 
